@@ -6,5 +6,5 @@
 *.iml
 out
 gen
-.pyc
+*.pyc
 __pycache__
